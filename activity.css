@@ -1,0 +1,12 @@
+#carouselExampleIndicators{
+    width: 30%;
+    height: 40%;
+    margin: auto;
+}
+
+body{
+    background-image: url(https://img.onl/hzWmT);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
